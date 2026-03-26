@@ -2,7 +2,7 @@
 
 > **Projet de recyclage matériel et déploiement d'une infrastructure serveur Debian Headless.**
 
-## 📸 Aperçu du Projet
+## 📸 Aperçu du rapport de projet
 Voici un aperçu de la documentation technique et de la configuration finale :
 ![Capture d'écran du rapport ou photo du serveur](images/screen_rapport.png)
 
