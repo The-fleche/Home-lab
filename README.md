@@ -36,7 +36,7 @@ Pour contourner le blocage du BIOS, j'ai utilisé une approche hardware :
 ## 📑 Documentation Complète
 Le rapport détaillé (PDF) analyse chaque étape, des échecs initiaux aux solutions finales, incluant la gestion des firmwares non-libres et l'optimisation réseau.
 
-👉 **[Consulter le Rapport Technique (PDF)](/rapport_projet_home_lab.pdf)**
+👉 **[Consulter le Rapport Technique (PDF)](./rapport_projet_home_lab.pdf)**
 
 
 ---
